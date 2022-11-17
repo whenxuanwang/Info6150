@@ -1,5 +1,6 @@
 
 1.download the repo
-2.npm start
+2. build
+3.npm start
 
 
