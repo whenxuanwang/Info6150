@@ -1,6 +1,5 @@
 
-1.download the repo
-2. build
-3.npm start
-
-
+* 1. git clone the Repo
+* 2. npm init –y in VScode
+* 3. npm install react
+* 4. npm start
