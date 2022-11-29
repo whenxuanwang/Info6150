@@ -8,7 +8,7 @@ import img5 from './assets/tupian/project/Screenshot5.png'
 const data = {
   concat: {
     github: "https://github.com/whenxuanwang",
-    email: "whenxuanwang@gmail.com",
+    linkedin: "https://www.linkedin.com/in/wenxuan-chris-wang-15a100238",
     resume: "https://docs.google.com/document/d/1Jt1dHGp6Ln3IiQtwXxXr9qVHrb2kZIHqNCPB71O99sM/edit"
   },
   home: {
