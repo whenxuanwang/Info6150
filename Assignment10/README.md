@@ -5,3 +5,5 @@
 2: npm start
 
 3: npm run build
+
+4. Drag build file to Netlify
