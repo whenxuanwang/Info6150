@@ -1,3 +1,7 @@
 # Covid-19 Epidemic Developement
 
-To run: npm install
+Frist: npm install
+
+Second: npm start
+
+Thrid: npm run build
