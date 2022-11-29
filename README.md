@@ -1,1 +1,1 @@
-# NEU INFO6150 projects
+# NEU INFO6150 Projects
