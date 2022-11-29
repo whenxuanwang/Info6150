@@ -6,4 +6,4 @@
 
 3: npm run build
 
-4. Drag build file to Netlify
+4: Drag build file to Netlify
