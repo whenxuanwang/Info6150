@@ -1,5 +1,7 @@
-# boilerplate-pokedex
+# COVID-19 Epidemic fench
 
-To run: 
+1. npm install
 
-npm install
+2. npm start
+
+3. npm run build
