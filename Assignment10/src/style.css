@@ -1,0 +1,205 @@
+body {
+    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("./components/bc2.png");
+    /*opacity: 0.5;*/
+    background-size: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    /*min-width: 1500px;*/
+    z-index: 999;
+    zoom:1;
+}
+
+.container {
+    position: relative;
+    top: 100px;
+}
+
+.title {
+    /*display: flex;*/
+    margin: auto;
+    text-align: center;
+    font:italic 3em Georgia, serif;
+    /*justifyContent: center;*/
+    /*alignItems: center*/
+}
+
+.countryArea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+.logo {
+    /*border-radius: 150px;*/
+    height: 80px;
+    width: 140px;
+    /*-webkit-border-radius: 150px;*/
+    /*-o-border-radius: 150px;*/
+    /*-moz-border-radius: 150px;*/
+}
+
+.displayArea {
+    /*display: flex;*/
+    position: absolute;
+    left: 20%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: inline;
+}
+
+.formArea {
+    position: absolute;
+    left: 25%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: inline;
+    /*left: 25%;*/
+    /*top: 20%*/
+}
+
+.selectFormArea {
+    margin: auto;
+    position: relative;
+    padding-top: 20px;
+    display: inline;
+}
+
+.searchInput {
+    position: relative;
+    width: 545px;
+    height: 30px;
+    margin: auto;
+    border: 2px solid rgb(196, 199, 206);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    outline-color: rgb(78, 110, 242);
+}
+
+.selectInput {
+    position: relative;
+    width: 120px;
+    height: 30px;
+    margin: auto;
+    border: 2px solid rgb(196, 199, 206);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    outline-color: rgb(78, 110, 242);
+}
+
+@media (max-width:300px){
+    .searchInput { background: yellow;
+    }
+  }
+
+.searchBtn {
+    position: relative;
+    color: #fff;
+    font-size: 18px;
+    width: 110px;
+    height: 35px;
+    border: 0px;
+    margin-left: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(78, 110, 242);
+    cursor: pointer;
+}
+
+.searchBtn:hover {
+    color: yellow;
+}
+
+.resetBtn {
+    position: relative;
+    color: #fff;
+    font-size: 18px;
+    width: 110px;
+    height: 35px;
+    border: 0px;
+    margin-left: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(78, 110, 242);
+    cursor: pointer;
+}
+
+.addBtn {
+    position: relative;
+    color: #fff;
+    font-size: 18px;
+    width: 110px;
+    height: 35px;
+    border: 0px;
+    margin-left: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(78, 110, 242);
+    cursor: pointer;
+}
+
+.resetBtn:hover{
+    color: yellow;
+}
+.ulArea {
+    position: relative;
+    margin: auto;
+    list-style: none;
+    padding-top: 50px;
+    font-size: 20px;
+    /*text-*/
+    /*text-align: center*/
+    /*right: 30%;*/
+    /*top: 20%*/
+}
+
+.ulArea li {
+    list-style-type: circle;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.notice {
+    position: relative;
+    top: 10px;
+    color: red;
+}
+
+.historyArea {
+    position: relative;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    color: dodgerblue;
+    width: 1250px;
+    white-space: pre-wrap;
+}
+
+@media (orientation: landscape) {
+    body {
+      flex-direction: row;
+    }
+  }
+  
+@media (orientation: portrait) {
+    body {
+      flex-direction: column;
+    }
+  }

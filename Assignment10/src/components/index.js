@@ -1,0 +1,1 @@
+export {default as Covid} from "./covid.js"
