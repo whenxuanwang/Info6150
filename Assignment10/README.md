@@ -1,4 +1,4 @@
-# COVID-19 Epidemic fench
+# COVID-19 Epidemic fetch
 
 1. npm install
 
