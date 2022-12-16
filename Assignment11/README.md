@@ -6,4 +6,8 @@
 
 3. input "nmp start" in the "terminal" check the project.
 
-4. input "npm run build" after the build file created, drag this file to the Netfliy.
+4. input "npm run build" wait the build file create, drag this file to the Netlify.
+
+## The purpose of project
+
+The COVID-19 project typically provides information on the number of confirmed cases, deaths, and recoveries from COVID-19, as well as other relevant statistics such as testing rates and vaccination rates. It may also provide information on the measures being taken by governments and other organizations to control the spread of the virus, such as lockdowns, travel restrictions, and the availability of medical resources.
