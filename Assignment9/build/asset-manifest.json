@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a87d41b.css",
+    "main.js": "/static/js/main.ed375c3a.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/Screenshot.png": "/static/media/Screenshot.aa49db07ba2c43fa126c.png",
+    "static/media/Screenshot2.png": "/static/media/Screenshot2.ab3088f42bbd7cae76b9.png",
+    "static/media/Screenshot1.png": "/static/media/Screenshot1.6c2a59f92a20fe2f5f49.png",
+    "static/media/person.jpg": "/static/media/person.2810f99feab1323f1012.jpg",
+    "static/media/Screenshot5.png": "/static/media/Screenshot5.0ba7132c9de3800a046f.png",
+    "static/media/linkedin.png": "/static/media/linkedin.7b33dc9da2ae8d2e5b81.png",
+    "static/media/Screenshot4.png": "/static/media/Screenshot4.b554016cd04769cfb352.png",
+    "static/media/Screenshot3.png": "/static/media/Screenshot3.0ecb9a813f862207d34c.png",
+    "index.html": "/index.html",
+    "main.5a87d41b.css.map": "/static/css/main.5a87d41b.css.map",
+    "main.ed375c3a.js.map": "/static/js/main.ed375c3a.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a87d41b.css",
+    "static/js/main.ed375c3a.js"
+  ]
+}
